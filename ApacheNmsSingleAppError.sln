@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EC8DD91E-5DD5-4CDE-B1AE-5CE3C73E56BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheNmsSingleAppError", "src\ApacheNmsSingleAppError\ApacheNmsSingleAppError.csproj", "{E0D3417E-DE10-4D91-B92B-6F98BAA8DC29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E0D3417E-DE10-4D91-B92B-6F98BAA8DC29} = {EC8DD91E-5DD5-4CDE-B1AE-5CE3C73E56BC}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D3417E-DE10-4D91-B92B-6F98BAA8DC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D3417E-DE10-4D91-B92B-6F98BAA8DC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D3417E-DE10-4D91-B92B-6F98BAA8DC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D3417E-DE10-4D91-B92B-6F98BAA8DC29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
